@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.gvr.datahub</groupId>
+  <artifactId>datahub-mq-common</artifactId>
+  <versioning>
+    <release>1.91-release</release>
+    <versions>
+      <version>1.91-release</version>
+    </versions>
+    <lastUpdated>20200413090302</lastUpdated>
+  </versioning>
+</metadata>

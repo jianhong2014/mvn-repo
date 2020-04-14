@@ -3,11 +3,12 @@
   <groupId>com.gvr.datahub</groupId>
   <artifactId>datahub-mq-common</artifactId>
   <versioning>
-    <release>1.92-release</release>
+    <release>1.93-release</release>
     <versions>
       <version>1.91-release</version>
       <version>1.92-release</version>
+      <version>1.93-release</version>
     </versions>
-    <lastUpdated>20200413090622</lastUpdated>
+    <lastUpdated>20200414073850</lastUpdated>
   </versioning>
 </metadata>

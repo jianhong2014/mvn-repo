@@ -3,9 +3,11 @@
   <groupId>com.triple.datahub</groupId>
   <artifactId>mpump-datahub-sdk</artifactId>
   <versioning>
+    <release>1.0-release</release>
     <versions>
       <version>1.0-SNAPSHOT</version>
+      <version>1.0-release</version>
     </versions>
-    <lastUpdated>20200902072831</lastUpdated>
+    <lastUpdated>20200902074252</lastUpdated>
   </versioning>
 </metadata>
